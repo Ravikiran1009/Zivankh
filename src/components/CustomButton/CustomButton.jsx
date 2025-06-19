@@ -1,4 +1,4 @@
-import { View, Text, TouchableOpacity } from 'react-native'
+import {Text, TouchableOpacity } from 'react-native'
 import React from 'react'
 import FontAwesome from 'react-native-vector-icons/FontAwesome';
 import { style } from './styles';

@@ -30,6 +30,6 @@ export const style = ScaledSheet.create({
   doctorImg: {
     height: '40%',
     width: '100%',
-    marginTop: '40@vs',
+    marginTop: '12%',
   },
 });
